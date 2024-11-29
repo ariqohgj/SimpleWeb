@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DHeeren17\\StockWeb\\StockPortofolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StockPortofolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StockPortofolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DHeeren17\\StockWeb\\StockPortofolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\DHeeren17\\StockWeb\\StockPortofolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\DHeeren17\\StockWeb\\StockPortofolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\DHeeren17\\StockWeb\\StockPortofolio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StockPortofolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StockPortofolio.props",
+      "PackagePath": "build\\StockPortofolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StockPortofolio.props",
+      "PackagePath": "buildMultiTargeting\\StockPortofolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StockPortofolio.props",
+      "PackagePath": "buildTransitive\\StockPortofolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
